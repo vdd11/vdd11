@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vdd11](https://github.com/vdd11)
 
-- 📝 I regularly write articles on [Coming soon — I'll be sharing insights on Data Science, Machine Learning, and Analytics projects.](Coming soon — I'll be sharing insights on Data Science, Machine Learning, and Analytics projects.)
+- 📝 I regularly write articles on (Coming soon — I'll be sharing insights on Data Science, Machine Learning, and Analytics projects.)
 
 - 💬 Ask me about **Python, Data Analysis, Machine Learning, SQL, Physics, Recommendation Systems, and Data Visualization**
 
