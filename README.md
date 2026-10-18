@@ -1,28 +1,29 @@
-<h1 align="center">Hi 👋, I'm Vishal Desai</h1>
-<h3 align="center">A passionate Data Analyst/Scientist from the United States</h3>
+# Hi, I'm Vishal Desai 👋
 
-- 🔭 I’m currently working on [StreamSense](https://github.com/vdd11/movie-recommender-system/tree/main)
+**Aspiring Data Analyst / Data Scientist** based in the United States, looking for entry-level roles. I went from particle physics research at CERN to building SQL, analytics and machine learning projects in Python.
 
-- 🌱 I’m currently learning **Machine Learning Engineering, MLOps, SQL Optimization, Cloud Technologies (AWS/GCP), and Advanced Data Science**
+📫 **vdd24@scarletmail.rutgers.edu** · [LinkedIn](https://linkedin.com/in/vishal-desai3)
 
-- 👯 I’m looking to collaborate on **Machine Learning, Data Analytics, and Open-Source Python Projects**
+## Featured projects
 
-- 🤝 I’m looking for help with **Deploying scalable ML applications and improving recommendation systems**
+| Project | What it is | Stack |
+|---|---|---|
+| [FlikPik AI](https://github.com/vdd11/movie-recommender-system) | Hybrid movie recommender with a live Streamlit demo, built by a 4-person capstone team. I was the Data Engineer & Data Prep Lead: time-based train/validation/test split, the user-item matrix and data cleaning. | Python, pandas, scikit-learn, Streamlit |
+| [Customer Churn Analysis](https://github.com/vdd11/customer_churn_analysis) | Telecom churn (7,043 customers): PostgreSQL star schema, SQL analysis and a random forest model explained with SHAP. | Python, PostgreSQL, scikit-learn |
+| [Northwind SQL Analysis](https://github.com/vdd11/northwind-sql-analysis) | Automated BI pipeline: RFM customer segmentation, revenue-concentration (HHI) and shipping-delay risk reports. | SQL, Python, PostgreSQL |
+| [DataPulse](https://github.com/vdd11/DataPulse) | Sales analytics dashboard on synthetic data, with SQL KPIs and a revenue forecast. | Python, SQLite, Plotly, Streamlit |
+| [Lost Ark Tracker](https://github.com/vdd11/lost-ark-tracker) | Local-first roster tracker for a video game, packaged as a single desktop app. | FastAPI, Next.js, SQLite |
 
-- 👨‍💻 All of my projects are available at [https://github.com/vdd11](https://github.com/vdd11)
+## Skills
 
-- 📝 I regularly write articles on (Coming soon — I'll be sharing insights on Data Science, Machine Learning, and Analytics projects.)
+**Languages & data:** Python, SQL (PostgreSQL, MySQL, SQLite), C++, MATLAB
+**Libraries:** pandas, NumPy, scikit-learn, SHAP, matplotlib, seaborn, Plotly, PyTorch, TensorFlow, OpenCV
+**Tools:** Streamlit, Jupyter, Git/GitHub
 
-- 💬 Ask me about **Python, Data Analysis, Machine Learning, SQL, Physics, Recommendation Systems, and Data Visualization**
+## Currently learning
 
-- 📫 How to reach me **vdd24@scarletmail.rutgers.edu**
+Machine learning engineering, MLOps, SQL optimization, and cloud platforms (AWS/GCP).
 
-- ⚡ Fun fact **I transitioned from particle physics research at CERN to building machine learning and data analytics solutions.**
+## Let's talk
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishal-desai3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-desai3" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Happy to chat about Python, data analysis, machine learning, SQL, recommendation systems and physics. I'm open to collaborating on data analytics, machine learning and open-source Python projects.
